@@ -21,4 +21,5 @@ module.exports = {
     },
   },
   plugins: [],
+  content: ['./src/app/**/*.js'],
 }
